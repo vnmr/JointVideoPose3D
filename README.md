@@ -10,6 +10,8 @@ Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/huma
 
 **arXiv** [arXiv](https://arxiv.org/abs/2002.11251)
 
+This work extends [Pavllo '19](https://arxiv.org/abs/1811.11742) FAIR [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
+
 |                   | Protocol #1   | Protocol #2   | Protocol #3  |
 | ------------------| ------------- |---------------|--------------|
 | [Pavllo '19](https://arxiv.org/abs/1811.11742) (CVPR) | 46.8          | 36.5          | 44.9         |
@@ -23,7 +25,6 @@ Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/huma
 
 
 
-This work extends [Pavllo '19](https://arxiv.org/abs/1811.11742) FAIR [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
 
 **Requirements**
 CUDA + 
